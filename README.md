@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/jitenderji1137)
+[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/RISHAB-CREATOR)
 <div align="center"><img src="[https://github.com/jitenderji1137/jitenderji1137/assets/113350806/12765808-f51d-40e0-b2e9-ba2a27fa8c84](https://cdn.discordapp.com/attachments/1170031307217195109/1204861312283185212/Youtube.png?ex=65d6458a&is=65c3d08a&hm=7bd714ea2e9336ee85631eb7308b935b31e4c25ccc9908c9696aa63ed97090dc&)" alt="example" width="50px"/></div>
 <h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Rishab ✨</h1>
 <p align="center">
