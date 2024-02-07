@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/RISHAB-CREATOR)
-<div align="center"><img src="[https://github.com/jitenderji1137/jitenderji1137/assets/113350806/12765808-f51d-40e0-b2e9-ba2a27fa8c84](https://storage.googleapis.com/replit/images/1664967332425_197f77b0c50a568b811f9ab622c4b2b5.gif)" alt="example" width="50px"/></div>
+<div align="center"><img src="[https://storage.googleapis.com/replit/images/1664967332425_197f77b0c50a568b811f9ab622c4b2b5.gif](https://storage.googleapis.com/replit/images/1664967332425_197f77b0c50a568b811f9ab622c4b2b5.gif)" alt="example" width="50px"/></div>
 <h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Rishab ✨</h1>
 <p align="center">
   <a href="https://itzrishabboss.tech/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Quality+assurance%20|%20Software+testing;HTML%20|%20Python%20|%20Javascript%20|%20NodeJs%20|%20ReactJs%20|%20And-More;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
