@@ -6,16 +6,21 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHAB-CREATOR&label=Profile%20views&color=0e75b6&style=flat" alt="RISHAB-CREATOR" /> </p>
+<p align="center">
+- 🔭 I’m currently a **Student** 
 
-- 🔭 I’m currently working in **Es Magico Tech Studio** Company
+- 🌱 I’m currently learning **Python**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 👨‍💻 All of my projects are available at [Portfolio](https://itzrishabboss.tech/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/)
+- ⭐ Checkout my RG Apps [Link](https://rgapps.live)
 
-- 📄 Check [Resume](https://drive.google.com/file/d/17PKdfRlM3vV-gBJ2RfUyKUul4zO9gwCN/view?usp=sharing)
+- ✨ RG Shows [Link](https://rgshows.vercel.app)
 
-- 📫 How to reach me **trademetrader1137@gmail.com**
+- 🍀 Rg Anime [Link](https://rganime.vercel.app)
+
+- 📫 How to reach me **ItzRishabBoss@gmail.com**
+</p>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
