@@ -8,17 +8,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHAB-CREATOR&label=Profile%20views&color=0e75b6&style=flat" alt="RISHAB-CREATOR" /> </p>
 <p align="center">
 - 🔭 I’m currently a **Student** 
-
+<p align="center">
 - 🌱 I’m currently learning **Python**
-
+<p align="center">
 - 👨‍💻 All of my projects are available at [Portfolio](https://itzrishabboss.tech/)
-
+<p align="center">
 - ⭐ Checkout my RG Apps [Link](https://rgapps.live)
-
+<p align="center">
 - ✨ RG Shows [Link](https://rgshows.vercel.app)
-
+<p align="center">
 - 🍀 Rg Anime [Link](https://rganime.vercel.app)
-
+<p align="center">
 - 📫 How to reach me **ItzRishabBoss@gmail.com**
 </p>
 <samp>
