@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/RISHAB-CREATOR)
-<div align="center"><img src="https://storage.googleapis.com/replit/images/1664967332425_197f77b0c50a568b811f9ab622c4b2b5.gif" alt="example" width="50px"/></div>
+<div align="center"><img src="https://styles.redditmedia.com/t5_7uyomx/styles/profileIcon_jufgqlelprfa1.png?width=256&height=256&crop=256:256,smart&s=f983beaf02201158d62ad949a339e69112270539" alt="example" width="50px"/></div>
 <h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Rishab ✨</h1>
 <p align="center">
   <a href="https://itzrishabboss.tech/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Quality+assurance%20|%20Software+testing;HTML%20|%20Python%20|%20Javascript%20|%20NodeJs%20|%20ReactJs%20|%20And-More;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
