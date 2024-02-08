@@ -55,9 +55,9 @@ Connect with me :
 </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RISHAB-CREATOR&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RISHAB-CREATOR&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RISHAB-CREATOR&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RISHAB-CREATOR&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RISHAB-CREATOR&theme=2077&utcOffset=8" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
     
 </div>
  <img  src="snake.svg" alt="example" />
