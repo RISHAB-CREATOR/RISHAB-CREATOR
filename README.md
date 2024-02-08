@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/RISHAB-CREATOR/RISHAB-CREATOR/blob/main/d95b33f34e1280a7a05243987b57af4e1ee94989r1-540-300_hq%20(1).gif?raw=true)](https://github.com/RISHAB-CREATOR)
 <div align="center"><img src="https://styles.redditmedia.com/t5_7uyomx/styles/profileIcon_jufgqlelprfa1.png?width=256&height=256&crop=256:256,smart&s=f983beaf02201158d62ad949a339e69112270539" alt="example" width="50px"/></div>
-<h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Rishab ✨</h1>
+<h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hey there, I'm Rishab ✨</h1>
 <p align="center">
   <a href="https://itzrishabboss.tech/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Quality+assurance%20|%20Software+testing;HTML%20|%20Python%20|%20Javascript%20|%20NodeJs%20|%20ReactJs%20|%20And-More;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
 </p>
@@ -33,13 +33,13 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
 
-  <h2 align="center">Connect with me :</h2>
+  <h2 align="center">😳 Connect with me :</h2>
   
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabnotfound/)  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1141729666160402565) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rishab07) [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31fty3odbvod5otbtal2iuamsmpq) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzrishabboss@gmail.com)
 </div>
 
    <div align="center">
-    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
+    <h2 align="center">🔪 Tech-Stack and Tools</h2>
    <br/>
    <p>
     <img src="https://img.shields.io/badge/Android-Studio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
@@ -67,7 +67,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     
 </div>
  <img  src="snake.svg" alt="example" />
-✍️ Random Dev Quote
+<h2 align="center">✍️ Random Dev Quote</h2>
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
