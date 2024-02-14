@@ -64,8 +64,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RISHAB-CREATOR&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RISHAB-CREATOR&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RISHAB-CREATOR&theme=2077&utcOffset=8" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHAB-CREATOR&theme=radical&date_format=M%20j%5B%2C%20Y%5D" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHAB-CREATOR&layout=compact&theme=tokyonight" style="border: 1px solid white; border-radius: 5px; margin: 10px;" height="100%"; width="98%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHAB-CREATOR&theme=radical&date_format=M%20j%5B%2C%20Y%5D" style="border: 1px solid white; border-radius: 5px; margin: 10px; width="49%">
+  <img src="https://streak-stats.demolab.com/?user=RISHAB-CREATOR&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px;" height="100%"; width="49%">
 
 </div>
  <img  src="snake.svg" alt="example" />
