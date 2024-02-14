@@ -2,7 +2,7 @@
 <div align="center"><img src="https://styles.redditmedia.com/t5_7uyomx/styles/profileIcon_jufgqlelprfa1.png?width=256&height=256&crop=256:256,smart&s=f983beaf02201158d62ad949a339e69112270539" alt="example" width="50px"/></div>
 <h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hey there, I'm Rishab ✨</h1>
 <p align="center">
-  <a href="https://itzrishabboss.tech/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Quality+assurance%20|%20Software+testing;HTML%20|%20Python%20|%20Javascript%20|%20NodeJs%20|%20ReactJs%20|%20And-More;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
+  <a href="https://itzrishabboss.tech/"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Web+Developer%20|Software+Developer;Quality+assurance%20|%20Software+testing;HTML%20|%20Python%20|%20Javascript%20|%20NodeJs%20|%20ReactJs%20|%20And-More;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHAB-CREATOR&label=Profile%20views&color=0e75b6&style=flat" alt="RISHAB-CREATOR" /> </p>
