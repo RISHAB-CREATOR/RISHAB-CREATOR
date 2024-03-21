@@ -45,7 +45,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <img src="https://img.shields.io/badge/Android-Studio-669154?logo=androidstudio&logoColor=fff&style=flat" alt="AndroidStudio" />   
     <img src="https://img.shields.io/badge/Firebase-ffdd00?logo=firebase&logoColor=fff&style=flat" alt="Firebase" />
     <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=fff&style=flat" alt="Python" />
-    <img src="https://img.shields.io/badge/javascript-181717?logo=javascript&logoColor=ffdd00&style=flat" alt="javascript" />
+    <img src="https://img.shields.io/badge/javascript-181717?logo=javascript&logoColor=fff&style=flat" alt="javascript" />
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" />
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff&style=flat" alt="NextJS" />
     <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
