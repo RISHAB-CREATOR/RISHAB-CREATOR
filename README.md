@@ -18,7 +18,7 @@
 
  ✨ RG Shows [Link](https://rgshows.vercel.app)
 
- 🍀 Rg Anime [Link](https://rganime.vercel.app)
+ 🍀 Rg Tools [Link](https://rishab-creator.github.io/ItzRishabTools/)
 
  📫 How to reach me **ItzRishabBoss@gmail.com**
 
