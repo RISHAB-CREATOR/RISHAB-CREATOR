@@ -12,11 +12,11 @@
 
  🌱 I’m currently learning **Python**
 
- 👨‍💻 All of my projects are available at [Portfolio](https://itzrishabboss.tech/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://rishab-creator.github.io/ItzRishabBoss/)
 
- ⭐ Checkout my RG Apps [Link](https://rgapps.live)
+ ⭐ Checkout my RG Apps [Link](https://rishab-creator.github.io/RgApps/)
 
- ✨ RG Shows [Link](https://rgshows.vercel.app)
+ ✨ RG Shows [Link](https://rgshows.me)
 
  🍀 Rg Tools [Link](https://rishab-creator.github.io/ItzRishabTools/)
 
