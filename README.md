@@ -14,8 +14,6 @@
 
  👨‍💻 All of my projects are available at [Portfolio](https://rishab-creator.github.io/ItzRishabBoss/)
 
- ✨ RG Shows [Link](https://rgshows.me)
-
  🍀 Rg Tools [Link](https://rishab-creator.github.io/ItzRishabTools/)
 
  📫 How to reach me **ItzRishabBoss@gmail.com**
