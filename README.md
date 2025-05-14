@@ -48,6 +48,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
     <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff&style=flat" alt="github" /> 
     <img src="https://img.shields.io/badge/React-4d4c4a?logo=react&logoColor=fff&style=flat" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Golang-000000?logo=go&logoColor=fff&style=flat" alt="golang" />
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="css3" />
     <img src="https://img.shields.io/badge/Visual-Studiocode-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="VScode" />
